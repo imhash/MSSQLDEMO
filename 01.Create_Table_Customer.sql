@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[Customer](
+CREATE TABLE [dbo].[Customer1](
 	[id] [int] IDENTITY(1,1) PRIMARY KEY,
 	[name] [nchar](30) NULL,
 	[mid_name] [nchar](30) NULL,
